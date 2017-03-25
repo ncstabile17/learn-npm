@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "learn-npm"
+    "url": "https://github.com/ncstabile17/learn-npm"
   },
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
