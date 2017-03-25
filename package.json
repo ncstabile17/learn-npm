@@ -4,12 +4,15 @@
   "description": "Learning npm at freecodecamp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "Nick Stabile",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "learn-npm"
+  },
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
   }
 }
